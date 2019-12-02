@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "969801075025",
+    "firebase_url": "https://partaner-71f9f.firebaseio.com",
+    "project_id": "partaner-71f9f",
+    "storage_bucket": "partaner-71f9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969801075025:android:7aa7a5e89ddd8408d62b70",
+        "android_client_info": {
+          "package_name": "com.example.partaner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969801075025-h8ndj815u7srcs4vo92jk85u54rd9jsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY0g_m2nWGVLfMGhVfjOmwWxTNLGDvlls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969801075025-h8ndj815u7srcs4vo92jk85u54rd9jsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
